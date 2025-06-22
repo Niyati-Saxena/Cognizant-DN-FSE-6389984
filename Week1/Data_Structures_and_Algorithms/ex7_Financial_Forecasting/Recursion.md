@@ -14,14 +14,14 @@
 -> It will maintain a call stack for n calls. <br>
 
 # Optimisation - Iterative Method 
-Using Iterative method over recursive method has the following advantages : <br>
+<pre><code>Using Iterative method over recursive method has the following advantages : <br>
 -> TC - O(n)  <br>
     -- Performs a single loop form 0 to n. <br>
-    -- Each year's value is calculated using starighforward multiplication. <br>
+    -- Each year's value is calculated using starightforward multiplication. <br>
 -> SC - O(1) <br>
     -- requires only few varialbes. <br>
     -- no need to maintain stack like recursive appraoch. <br>
 -> No risk of stack overflow. <br>
--> Can handle lasrge values (eg. 10,000 years). <br>
+-> Can handle large values (eg. 10,000 years). <br>
 -> can be extended whenever needed as per the requirement.
     
