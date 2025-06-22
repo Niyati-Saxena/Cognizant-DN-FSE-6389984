@@ -25,7 +25,7 @@ It contains all the mandatory hands-on arranged week wise in thier respective fo
             └── Output.jpg
 
 
-  ![Singleton Pattern](./SingletonDiagram.jpg)  
+  
 
     
       
