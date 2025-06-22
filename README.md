@@ -8,7 +8,7 @@ It contains all the mandatory hands-on arranged week wise in thier respective fo
 REPO STRCUTURE
 
 <pre><code>├── README.md
-              └── Week1
+  └── Week1
                   ├── Design_Patterns_Principles
                   |   ├── ex1_Singleton_Pattern
                   |   |   ├── Code.java
