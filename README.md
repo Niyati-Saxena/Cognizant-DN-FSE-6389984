@@ -3,7 +3,7 @@ Candidate Name - Niyati Saxena <br>
 Superset ID - 6389984
 ---
 This repo is a part of Digital Nurture 4.0 program by Cognizant for Java FSE role.
-It contains all the mandatory hands-on arranged week wise in thier respective folders.
+It contains all the mandatory hands-on arranged week wise in their respective folders.
 
 **REPO STRCUTURE**
 ---
