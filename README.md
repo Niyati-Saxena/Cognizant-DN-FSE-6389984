@@ -19,7 +19,8 @@ It contains all the mandatory hands-on arranged week wise in their respective fo
     └── Data_Structures_and_Algorithms  
         ├── ex2_E_Commerce_Platform
         |   ├── Code.java
-        |   └── Output.png
+        |   ├── Output.png
+        |   └── Asymptotic_Notation.md
         └── ex7_Financial_Forecasting
             ├── Code.java
             └── Output.png
