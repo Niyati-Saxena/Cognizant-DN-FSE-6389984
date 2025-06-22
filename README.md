@@ -23,6 +23,11 @@ It contains all the mandatory hands-on arranged week wise in thier respective fo
         └── ex7_Financial_Forecasting
             ├── Code.java
             └── Output.jpg
+
+
+  ![Singleton Pattern](./SingletonDiagram.jpg)  
+
+    
       
   
   </code></pre>
