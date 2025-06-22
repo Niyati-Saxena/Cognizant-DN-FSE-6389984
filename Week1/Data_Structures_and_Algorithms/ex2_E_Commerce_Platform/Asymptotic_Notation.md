@@ -19,7 +19,8 @@ Therea are mainly two types of search operations <br>
 
 # Most Suitable Algorithm 
 For our E-Commerce Platform the most suitble will be a *BINARY SEARCH* :  <br>
--> Attributes like ProductID & ProductName can be soted easily. <br>
--> 
+-> Attributes like ProductID & ProductName can be sorted easily. <br>
+-> Optimal TC - O(logn) faster than linear TC O(n). <br>
+-> Suitable for platforms with large datasets like in our case thousands of products. <br>
 
 
