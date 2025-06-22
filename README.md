@@ -12,17 +12,17 @@ It contains all the mandatory hands-on arranged week wise in thier respective fo
     ├── Design_Patterns_Principles
     |   ├── ex1_Singleton_Pattern
     |   |   ├── Code.java
-    |   |   └── Output.jpg
+    |   |   └── Output.png
     |   └── ex2_Factory_method_Pattern
     |       ├── Code.java
-    |       └── Output.jpg
+    |       └── Output.png
     └── Data_Structures_and_Algorithms  
         ├── ex2_E_Commerce_Platform
         |   ├── Code.java
-        |   └── Output.jpg
+        |   └── Output.png
         └── ex7_Financial_Forecasting
             ├── Code.java
-            └── Output.jpg
+            └── Output.png
 
 
   
