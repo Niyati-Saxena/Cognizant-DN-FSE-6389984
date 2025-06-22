@@ -2,7 +2,7 @@
 -> Describes how the resource requirements grow as the input size increases. <br>
 -> Focuses on *Upper Bound* performance ie *worst case* scenario. <br>
 -> Ignores the constants and the lower-order terms. <br>
--> Describes efficiency of the algorithm, enabling comaparions. <br>
+-> Describes efficiency of the algorithm, enabling comparisons. <br>
 
 # Search Operations : 
 Therea are mainly two types of search operations <br>
