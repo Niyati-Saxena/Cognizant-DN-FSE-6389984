@@ -8,16 +8,16 @@ It contains all the mandatory hands-on arranged week wise in thier respective fo
 REPO STRCUTURE
 
 <pre><code>├── README.md
-  └── Week1
-                  ├── Design_Patterns_Principles
-                  |   ├── ex1_Singleton_Pattern
-                  |   |   ├── Code.java
-                  |   |   └── Output.jpg
-                  |   └── ex2_Factory_method_Pattern
-                  |       ├── Code.java
-                  |       └── Output.jpg
-                  └── Data_Structures_and_Algorithms  
-  
+└── Week1
+├── Design_Patterns_Principles
+|   ├── ex1_Singleton_Pattern
+|   |   ├── Code.java
+|   |   └── Output.jpg
+|   └── ex2_Factory_method_Pattern
+|       ├── Code.java
+|       └── Output.jpg
+└── Data_Structures_and_Algorithms  
+      
   
   </code></pre>
 
