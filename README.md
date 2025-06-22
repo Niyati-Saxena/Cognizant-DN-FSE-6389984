@@ -1,11 +1,25 @@
-# Candidate Name - Niyati Saxena 
+# Cognizant-DN-FSE-6389984
+Candidate Name - Niyati Saxena 
 Superset ID - 6389984
+---
 This repo is a part of Digital Nurture 4.0 program by Cognizant for Java FSE role.
 It contains all the mandatory hands-on arranged week wise in thier respective folders.
 
 REPO STRCUTURE
 
-<pre><code>```├── README.md└── Week 1├── Algorithms_Data_Structures│   └── E_Commerce_Platform_Search│       ├── .....│       ├── Main.java│       └── .....└── Design Patterns and Principles├── FactoryMethodExample│   ├── .....│   ├── Main.java│   └── .....└── SingletonPatternExample├── .....└── Main.java```</code></pre>
+<pre><code>```├── README.md
+              └── Week1
+                  ├── Design_Patterns_Principles
+                  |   ├── ex1_Singleton_Pattern
+                  |   |   ├── Code.java
+                  |   |   └── Output.jpg
+                  |   └── ex2_Factory_method_Pattern
+                  |       ├── Code.java
+                  |       └── Output.jpg
+                  └── Data_Structures_and_Algorithms  
+  
+  
+  ```</code></pre>
 
 
 
