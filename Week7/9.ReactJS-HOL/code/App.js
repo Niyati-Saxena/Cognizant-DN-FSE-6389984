@@ -8,7 +8,7 @@ import ListofPlayers from "./ListofPlayers";
 
 function App() {
    const flag = false;
-  if (flag == true) {
+  if (flag === true) {
     return (
       <ListofPlayers/>
     ) 
