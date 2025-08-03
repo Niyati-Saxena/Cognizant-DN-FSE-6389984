@@ -1,0 +1,26 @@
+/* added a bit of styling to make the data look more presentable */
+
+.table {
+  width: 100%;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.table thead {
+  background-color: #f0f0f0;
+}
+
+.status-delayed {
+  color: red;
+}
+
+.status-ontime {
+  color: green;
+}
